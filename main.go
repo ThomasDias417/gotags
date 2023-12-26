@@ -1,4 +1,4 @@
-package main
+package github.com/ThomasDias417/gotags
 
 import "github.com/ThomasDias417/gopher"
 
